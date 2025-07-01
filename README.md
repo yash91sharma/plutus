@@ -91,4 +91,4 @@ Plutus is free to use for personal financial management:
 
 ---
 
-*Built in the spirit of building by [Yash Sharma](https://www.linkedin.com/in/yash-sharma/)*
+*Stay curious and keep building. - [Yash Sharma](https://www.linkedin.com/in/yash-sharma/)*

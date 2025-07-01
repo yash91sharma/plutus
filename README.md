@@ -1,7 +1,5 @@
 # 💰 Plutus - Personal Finance & Investment Tracker
 
-> *"You can only improve what you measure. Take control of your financial health with data-driven insights."*
-
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-plutus.yashrma.xyz-blue)](https://plutus.yashrma.xyz)
 [![Author](https://img.shields.io/badge/Author-Yash%20Sharma-green)](https://www.linkedin.com/in/yash-sharma/)
 [![About](https://img.shields.io/badge/About-about.yashrma.xyz-orange)](https://about.yashrma.xyz)
@@ -10,105 +8,71 @@
 
 Plutus is a personal finance and investment tracking platform. It empowers you to understand your financial health through detailed analytics, intelligent insights, and automated data processing.
 
-**The philosophy:** You can only improve what you measure and understand. Plutus helps you make informed decisions about your money, investments, and spending habits.
+> *"You can only improve what you measure. Take control of your financial health with data-driven insights."*
 
 ## ✨ Features Overview
 
-### 📊 Investment Portfolio Management
 - **Multi-Asset Tracking**: Stocks, options (puts/calls), cash positions
-- **Real-Time Performance**: Portfolio value tracking with daily close prices
 - **Benchmark Comparisons**: Compare your portfolio against VTI, QQQ, VOO
-- **Snapshots**: Daily portfolio snapshots for detailed performance analysis
-
-### 💳 Expense Tracking & Analysis
-- **Smart Categorization**: Automatic expense categorization across 8+ main categories
-- **Spending Analytics**: Detailed breakdowns by category, time period, and trends
-- **Manual Entry**: Quick manual expense addition with intuitive forms
-- **Historical Analysis**: Track spending patterns over time
-
-### 🔬 Research & Analytics
+- **Spending Analytics**: Detailed breakdowns by category, time period, and trends over time
 - **Technical Analysis**: RSI, EMA/SMA indicators for individual stocks
-- **Data Visualization**: Interactive charts and graphs for all financial data
-
-### 🧠 Intelligent Features
-- **Smart PDF Upload**: Upload credit card statements and bank statements
-- **Automatic Extraction**: AI extracts and categorizes expenses from PDFs
+- **Smart PDF Upload**: Upload credit card statements and bank statements. AI extracts and categorizes expenses from PDFs
 - **Bring Your Own AI**: Use your own OpenAI API keys
 
 *Note: Plutus doesn't provide built-in AI models yet.*
 
 ## 🚀 Key Technical Highlights
 
-### Architecture
 - **Frontend**: React 18 + TypeScript + Material-UI
 - **Backend**: FastAPI + SQLAlchemy + Pydantic
 - **Database**: SQLite with robust data validation
 - **Security**: JWT authentication via Auth0, HTTPS, security headers
 - **Deployment**: Docker containerization with production-ready monitoring and alerting
 
-### Engineering Excellence
-- **Type Safety**: Full TypeScript implementation with strict validation
-- **Testing**: Comprehensive test coverage for both frontend and backend
-- **Performance**: Optimized data fetching and caching strategies
-- **Scalability**: Microservices architecture with separate backend andmarket data service
-- **DevOps**: Automated builds, testing, and deployment pipelines
-
-### Data Processing
-- **Real-time Market Data**: Integration with financial data providers
-- **PDF Processing**: Advanced PDF parsing with AI-enhanced extraction
-- **Data Validation**: Multi-layer validation ensuring data integrity
-- **Performance Analytics**: Complex calculations for portfolio metrics
-
-## 🔧 Current AI Capabilities
-
-### Smart PDF Processing
-- **Document Types**: Credit card statements, bank statements, receipts
-- **AI Models Supported**: OpenAI GPT, Anthropic Claude (coming soon), and more
-- **Extraction Accuracy**: High-precision expense extraction and categorization
-
-### Bring Your Own AI
-- Configure your own API keys (enables this app to remain free)
+### AI - BYOK (Bring Your Own Key)
+- Configure your own API keys and use pdf upload capabilities
 - Cost-effective: pay only for what you use
-- No vendor lock-in: switch between AI providers easily
 
 *🔮 Coming Soon: Built-in AI models, predictive analytics, automated financial advice, and intelligent budgeting recommendations!*
 
+## Project Motivation
+
+There are numerous personal finance apps available in the market, some free to use and some paid. There are also some open sources projects out there. But I decided to create yet another because of the following reasons:
+
+- **Better than Google Sheets**: A dedicated frontend + backend application offers a seamless, scalable, and organized experience—unlike Google Sheets, which quickly becomes messy, hard to maintain, and inconvenient to update, especially if you're not always working in a web browser. That said, I tracked my expenses and portfolios on Google Sheets for years before finally deciding to build a better solution.
+- **Full Stack Development**: Full stack is not just frontend and backend development. Becoming a real `full stack engineer` means understanding the entire lifecycle of a product, from ideation, product design, through database, backend and frontend development, all the way to machine learning (training and inference), testing, packaging, deployment, reverse proxy setup, routing, DNS, certificate management, domain/subdomain configuration, monitoring etc. So in other words, building this app is my attempt to taste all the layers of the cake, aka `full stack development`.
+- **Customizations**: No brokerage provides customized graphs and dashbaords, example: what % of your portfolio is exposed to options over time, how much have you earned via selling options over time etc. With this app, I have the option to create the graphs which make sense to me, and hopefully to other users too.
+
 ## 🛠️ Free Passion Project
 
-**Project Overview**: Plutus is a free passion project developed and maintained by [Yash Sharma](https://www.linkedin.com/in/yash-sharma/). This means:
+**Project Overview**: Plutus is a free passion project developed and maintained by [me](https://www.linkedin.com/in/yash-sharma/). This means:
 
 - ✅ **Free**: It is free to use
 - ⚡ **Active Development**: Regular updates and new features
 - 🐛 **Bug Reports Welcome**: Feedback helps improve the platform
 
 ### Known Limitations
-- Development happens during spare time, so updates may be gradual
+- Development happens during spare time, so updates will be gradual
 - As a single-developer project, there might be occasional bugs
 - Some advanced features are still in development
 
-**Please report any bugs or issues you encounter - feedback is valuable for improvements.**
-
-## 🎯 Feature Requests & Contributions
+## I would love your help!!!
 
 Here's how you can get involved:
 
-### 🙋‍♀️ Request Features
+- Try out the features
 - Open an issue on GitHub with your feature request
 - Reach out via [LinkedIn](https://www.linkedin.com/in/yash-sharma/) with suggestions
 
-### 🤝 How You Can Help
-- **Testing**: Try new features and report feedback
-- **Bug Reports**: Help identify and fix issues
-- **Feature Ideas**: Suggest improvements based on your workflow
-- **User Experience**: Share how you use Plutus and what could be better
+**Please report any bugs or issues you encounter - feedback is valuable.**
 
-### 💡 Roadmap Ideas
+### Some Roadmap Ideas
 - Mobile app development
 - Intelligent insights
 - Direct integration with financial institutions
 - Collaborative family financial planning
 
-## 🔗 Links
+## Links
 
 - **Live Application**: [plutus.yashrma.xyz](https://plutus.yashrma.xyz)
 - **Author's LinkedIn**: [Yash Sharma](https://www.linkedin.com/in/yash-sharma/)

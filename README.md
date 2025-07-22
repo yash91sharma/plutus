@@ -1,16 +1,16 @@
-# 💰 Plutus - Personal Finance & Investment Tracker
+# Plutus - Personal Finance & Investment Tracker
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-plutus.yashrma.xyz-blue)](https://plutus.yashrma.xyz)
 [![Author](https://img.shields.io/badge/Author-Yash%20Sharma-green)](https://www.linkedin.com/in/yash-sharma/)
 [![About](https://img.shields.io/badge/About-about.yashrma.xyz-orange)](https://about.yashrma.xyz)
 
-## 🎯 What is Plutus?
+## What is Plutus?
 
 Plutus is a personal finance and investment tracking platform. It empowers you to understand your financial health through detailed analytics, intelligent insights, and automated data processing.
 
 > *"You can only improve what you measure. Take control of your financial health with data-driven insights."*
 
-## ✨ Features Overview
+## Features Overview
 
 - **Multi-Asset Tracking**: Stocks, options (puts/calls), cash positions
 - **Benchmark Comparisons**: Compare your portfolio against VTI, QQQ, VOO
@@ -21,7 +21,7 @@ Plutus is a personal finance and investment tracking platform. It empowers you t
 
 *Note: Plutus doesn't provide built-in AI models yet.*
 
-## 🚀 Key Technical Highlights
+## Key Technical Highlights
 
 - **Frontend**: React 18 + TypeScript + Material-UI
 - **Backend**: FastAPI + SQLAlchemy + Pydantic
@@ -33,7 +33,7 @@ Plutus is a personal finance and investment tracking platform. It empowers you t
 - Configure your own API keys and use pdf upload capabilities
 - Cost-effective: pay only for what you use
 
-*🔮 Coming Soon: Built-in AI models, predictive analytics, automated financial advice, and intelligent budgeting recommendations!*
+*Coming Soon: Built-in AI models, predictive analytics, automated financial advice, and intelligent budgeting recommendations!*
 
 ## Project Motivation
 
@@ -47,9 +47,9 @@ There are numerous personal finance apps available in the market, some free to u
 
 **Project Overview**: Plutus is a free passion project developed and maintained by [me](https://www.linkedin.com/in/yash-sharma/). This means:
 
-- ✅ **Free**: It is free to use
-- ⚡ **Active Development**: Regular updates and new features
-- 🐛 **Bug Reports Welcome**: Feedback helps improve the platform
+- **Free**: It is free to use
+- **Active Development**: Regular updates and new features
+- **Bug Reports Welcome**: Feedback helps improve the platform
 
 ### Known Limitations
 - Development happens during spare time, so updates will be gradual
@@ -79,7 +79,7 @@ Here's how you can get involved:
 - **About the Developer**: [about.yashrma.xyz](https://about.yashrma.xyz)
 - **GitHub Issues**: Report bugs and request features
 
-## 📄 License & Privacy
+## License & Privacy
 
 Plutus is free to use for personal financial management:
 

@@ -1,4 +1,4 @@
-# Plutus - Personal Finance & Investment Tracker
+# Plutus - Making personal finance easy.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-plutus.yashrma.xyz-blue)](https://plutus.yashrma.xyz)
 [![Author](https://img.shields.io/badge/Author-Yash%20Sharma-green)](https://www.linkedin.com/in/yash-sharma/)
@@ -8,17 +8,16 @@
 
 Plutus is a personal finance and investment tracking platform. It empowers you to understand your financial health through detailed analytics, intelligent insights, and automation.
 
-This guiding principle drives Plutus:
-
+Guiding principle:
 > *"You can only improve what you measure."*
 
 ## Features Overview
 
-- **Multi-Asset Tracking**: Stocks, options (puts/calls), cash positions, expenses (USD and US stick market only for now).
-- **Benchmark Comparisons**: Compare your portfolio against VTI, QQQ, VOO.
-- **Spending Analytics**: Detailed breakdowns by category, time period, and trends over time.
-- **Technical Analysis**: RSI, EMA/SMA indicators for individual stocks.
-- **Smart PDF Upload**: Upload credit card statements and bank statements. LLMs extracts and categorizes expenses from PDFs.
+- **Multi-Asset Tracking**: Stocks, options, cash positions, expenses (USD and US stock market only for now)
+- **Benchmark Comparisons**: Compare your portfolio against VTI, QQQ, VOO
+- **Spend Analytics**: Detailed breakdowns by category, time period, and trends over time
+- **Technical Analysis**: RSI, EMA/SMA indicators for individual stocks
+- **Smart PDF Upload**: Upload credit card statements and bank statements. LLMs extracts and categorizes expenses from PDFs
 
 *Coming Soon: Built-in LLM models, predictive analytics, automated financial advice, and intelligent budgeting recommendations!*
 
@@ -39,13 +38,13 @@ There are numerous personal finance apps available in the market, some free to u
 
 Plutus is a free passion project developed and maintained by [me](https://www.linkedin.com/in/yash-sharma/). This means:
 
-- **Free**: It is free to use.
-- **Active Development**: Regular (but slow) updates and new features.
-- **Bug Reports Welcome**: Feedback helps improve the platform.
+- **Free**: It is free to use
+- **Active Development**: Regular (but slow) updates and new features
+- **Bug Reports Welcome**: Feedback helps improve the platform
 
 ### Known Limitations
-- Development happens during spare time, so updates will be gradual.
-- As a single-developer project, there might be occasional bugs.
+- Development happens during spare time, so updates will be gradual
+- As a single-developer project, there might be occasional bugs
 
 ## I would love your help!!!
 
@@ -57,7 +56,7 @@ Here's how you can get involved:
 
 ### Some Roadmap Ideas
 - Mobile app development
-- Intelligent insights
+- Intelligent insights and recommendations
 - Direct integration with financial institutions
 - Collaborative family financial planning
 
@@ -72,10 +71,10 @@ Here's how you can get involved:
 
 Plutus is free to use:
 
-- **No Ads**: Your financial data is not used to serve advertisements.
-- **No Revenue from Your Data**: No monetization of your personal information.
-- **No Third-Party Sharing**: Your financial data is not sold, shared, or provided to external parties.
-- **No Tracking or Profiling**: No user profiles are built for marketing or commercial purposes.
+- **No Ads**: Your financial data is not used to serve advertisements
+- **No Revenue from Your Data**: No monetization of your personal information
+- **No Third-Party Sharing**: Your financial data is not sold, shared, or provided to external parties
+- **No Tracking or Profiling**: No user profiles are built for marketing or commercial purposes
 
 ---
 
